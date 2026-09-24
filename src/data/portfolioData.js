@@ -221,7 +221,7 @@ export const projectsData = [
       "Real-time analytics and automated low-stock warnings",
       "Secure backend with session management and parameterized SQL queries",
     ],
-    githubUrl: "https://github.com/Thammaliprashanth18",
+    githubUrl: "https://github.com/Thammaliprashanth18/INVENTORY-MANAGEMENT-SYSTEM.git",
     liveDemoUrl: "#",
     featured: true,
   },
