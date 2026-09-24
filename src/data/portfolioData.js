@@ -240,7 +240,7 @@ export const projectsData = [
       "Structured student skill mapping and internship placement workflows",
       "RESTful API architecture with MySQL data persistence",
     ],
-    githubUrl: "https://github.com/Thammaliprashanth18",
+    githubUrl: "https://github.com/Thammaliprashanth18/Academiaindustryportal.git",
     liveDemoUrl: "#",
     featured: true,
   },
